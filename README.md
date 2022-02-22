@@ -31,3 +31,8 @@
 |   Read11           |                               |              |
 |   Read12           |                               |              |
 |   Read13           |                               |              |
+
+
+[The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
+
+
