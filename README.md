@@ -17,9 +17,9 @@
 ### Table of Reading content
 
 |   The code         |           The Title           |   The link   |
-| -----------------  | ----------------------------- | -----------  |
-|   Read01           |                               |   [Link](https://github.com/ghanemgit/reading-notes/blob/main/Testfile.md)           |
-|   Read02           |                               |              |
+| :-----------------:  | :-----------------------------: | :-----------: |
+|   Read01           |                               |              |
+|   Read02           |Packages and import in java & loops in java   |  [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)  |
 |   Read03           |                               |              |
 |   Read04           |                               |              |
 |   Read05           |                               |              |
@@ -31,7 +31,6 @@
 |   Read11           |                               |              |
 |   Read12           |                               |              |
 |   Read13           |                               |              |
-
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
 
