@@ -18,7 +18,7 @@
 
 |   The code         |           The Title           |   The link   |
 | :-----------------:  | :-----------------------------: | :-----------: |
-|   Read01           |                               |              |
+|   Read01           |             Java Basics                  |       [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read01.md)       |
 |   Read02           |Packages and import in java & loops in java   |  [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)  |
 |   Read03           |                               |              |
 |   Read04           |                               |              |
