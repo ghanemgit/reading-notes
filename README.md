@@ -18,11 +18,11 @@
 
 |   The code         |           The Title           |   The link   |
 | :-----------------:  | :-----------------------------: | :-----------: |
-|   Read01           |             Java Basics                  |       [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read01.md)       |
-|   Read02           |Packages and import in java & loops in java   |  [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)  |
-|   Read03           |   Maps, primitives, File I/O  |  [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read03.md)       |
-|   Read04           |               OOP             |  [Link](https://github.com/ghanemgit/reading-notes/blob/main/Read04.md)  |
-|   Read05           |                               |              |
+|   Read01           |             Java Basics           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read01.md)|
+|   Read02           |Packages and import in java & loops in java|  [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)|
+|   Read03           |   Maps, primitives, File I/O  |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read03.md)|
+|   Read04           |               OOP             |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read04.md)|
+|   Read05           |         Linked list           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read05.md)|
 |   Read06           |                               |              |
 |   Read07           |                               |              |
 |   Read08           |                               |              |
