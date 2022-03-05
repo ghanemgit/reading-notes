@@ -18,6 +18,7 @@
 
 |   The code         |           The Title           |   The link   |
 | :-----------------:  | :-----------------------------: | :-----------: |
+|   Prep Read        |          Intro to SQL          |    [Read](https://github.com/ghanemgit/reading-notes/blob/main/DataBase.md)|
 |   Read01           |             Java Basics           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read01.md)|
 |   Read02           |Packages and import in java & loops in java|  [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)|
 |   Read03           |   Maps, primitives, File I/O  |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read03.md)|
