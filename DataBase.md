@@ -27,7 +27,7 @@
 
 
 ![lesson1](https://user-images.githubusercontent.com/97638932/156852030-44d53f37-9403-4612-977e-b325b5d7ea7d.jpg)
-![lesson2](https://user-images.githubusercontent.com/97638932/156852044-c6bad674-e829-4052-beba-bb7809080ccb.jpg)
+![lesson2](https://user-images.githubusercontent.com/97638932/156899576-778bbf3a-7292-4f20-ad6d-1c1ea592f43f.png)
 ![lesson3](https://user-images.githubusercontent.com/97638932/156852057-5cfd1a82-c074-4f68-96ac-cd2cfb37e64b.jpg)
 ![lesson4](https://user-images.githubusercontent.com/97638932/156852064-faf841c7-f94f-43f6-85c5-4dad3ca4ae6d.jpg)
 ![lesson5](https://user-images.githubusercontent.com/97638932/156852070-75742513-987d-4c3a-8515-bed818a1c54d.jpg)
