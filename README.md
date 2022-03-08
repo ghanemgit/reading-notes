@@ -19,7 +19,7 @@
 |   Read05           |         Linked list           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read05.md)|
 |   Read06           | Inheritance and Interfaces    |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read06.md)|
 |   Read07           |                -              |       -      |
-|   Read08           |                               |              |
+|   Read08           |            OOP design         |         [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read08.md)|
 |   Read09           |                               |              |
 |   Read10           |                               |              |
 |   Read11           |                               |              |
