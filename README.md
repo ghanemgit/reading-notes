@@ -21,8 +21,8 @@
 |   Read07           |                -              |       -      |
 |   Read08           |            OOP design         |         [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read08.md)|
 |   Read09           |            WRRC and Java      |        [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read09.md)|
-|   Read10           |                               |              |
-|   Read11           |                               |              |
+|   Read10           |        Stack and Queue        |       [Read](Read10.md)    |
+|   Read11           |            Spring MVC         |      [Read](Read11.md)     |
 |   Read12           |                               |              |
 |   Read13           |                               |              |
 
