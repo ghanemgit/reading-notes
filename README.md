@@ -23,7 +23,7 @@
 |   Read09           |            WRRC and Java      |        [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read09.md)|
 |   Read10           |        Stack and Queue        |       [Read](Read10.md)    |
 |   Read11           |            Spring MVC         |      [Read](Read11.md)     |
-|   Read12           |                               |              |
+|   Read12           | Spring RESTful Routing & Static Files|       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read12.md)   |
 |   Read13           |                               |              |
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
