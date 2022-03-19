@@ -21,8 +21,8 @@
 |   Read07           |                -              |       -          |
 |   Read08           |            OOP design         | [Read](Read08.md)|
 |   Read09           |            WRRC and Java      | [Read](Read09.md)|
-|   Read10           |        Stack and Queue        | [Read](Read10.md.md)|
-|   Read11           |            Spring MVC         | [Read](Read11.md.md)|
+|   Read10           |        Stack and Queue        | [Read](Read10.md)|
+|   Read11           |            Spring MVC         | [Read](Read11.md)|
 |   Read12           | Spring RESTful Routing & Static Files|[Read](Read12.md)   |
 |   Read13           |                               |              |
 
