@@ -10,20 +10,20 @@
 
 |   The code         |           The Title           |   The link   |
 | :-----------------:  | :-----------------------------: | :-----------: |
-|   Prep Read        |          Intro to SQL          |    [Read](https://github.com/ghanemgit/reading-notes/blob/main/DataBase.md)|
-|   Prep Read        |         Command line           |   [Read](https://github.com/ghanemgit/reading-notes/blob/main/CommandLine.md)|
-|   Read01           |             Java Basics           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read01.md)|
-|   Read02           |Packages and import in java & loops in java|  [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read02.md)|
-|   Read03           |   Maps, primitives, File I/O  |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read03.md)|
-|   Read04           |               OOP             |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read04.md)|
-|   Read05           |         Linked list           |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read05.md)|
-|   Read06           | Inheritance and Interfaces    |       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read06.md)|
-|   Read07           |                -              |       -      |
-|   Read08           |            OOP design         |         [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read08.md)|
-|   Read09           |            WRRC and Java      |        [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read09.md)|
-|   Read10           |        Stack and Queue        |       [Read](Read10.md)    |
-|   Read11           |            Spring MVC         |      [Read](Read11.md)     |
-|   Read12           | Spring RESTful Routing & Static Files|       [Read](https://github.com/ghanemgit/reading-notes/blob/main/Read12.md)   |
+|   Prep Read        |          Intro to SQL         | [Read](CommandLine.md)|
+|   Prep Read        |         Command line          | [Read](DataBase.md)|
+|   Read01           |             Java Basics       | [Read](Read01.md)|
+|   Read02           |Packages and import in java & loops in java|[Read](Read02.md)|
+|   Read03           |   Maps, primitives, File I/O  | [Read](Read03.md)|
+|   Read04           |               OOP             | [Read](Read04.md)|
+|   Read05           |         Linked list           | [Read](Read05.md)|
+|   Read06           | Inheritance and Interfaces    | [Read](Read06.md)|
+|   Read07           |                -              |       -          |
+|   Read08           |            OOP design         | [Read](Read08.md)|
+|   Read09           |            WRRC and Java      | [Read](Read09.md)|
+|   Read10           |        Stack and Queue        | [Read](Read10.md.md)|
+|   Read11           |            Spring MVC         | [Read](Read11.md.md)|
+|   Read12           | Spring RESTful Routing & Static Files|[Read](Read12.md)   |
 |   Read13           |                               |              |
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
