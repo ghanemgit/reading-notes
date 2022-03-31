@@ -27,7 +27,7 @@
 |   Read13           | Related Resources and Integration Testing | [Read](Read13.md)|
 |   Read15           |          Trees                 | [Read](Read15.md)|
 |   Read16           |       Spring Authentication    | [Read](Read16.md) |
-|                    |                                |                 |
+|   Read17           |       Spring Authorization 2    | [Read](Read17.md) |
 |                    |                                |                 |
 |                    |                                |                 |
 |                    |                                |                 |
