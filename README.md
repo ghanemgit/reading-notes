@@ -30,7 +30,13 @@
 |   Read17           |       Spring Authorization 2    | [Read](Read17.md) |
 |   Read18           |     Web App Security           |  [Read](Read18.md)|
 |   Read19           | Purely Functional Programming  | [Read](Read19.md) |
-|                    |                                |                 |
+|   Android Section    |
+|   Read26           |   Android Fundamentals         | [Read](Read26.md)    |
+|                    |                                |                      |
+|                    |                                |                      |
+|                    |                                |                      |
+|                    |                                |                      |
+|                    |                                |                      |
 
 
 
