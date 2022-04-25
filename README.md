@@ -32,7 +32,7 @@
 |   Read19           | Purely Functional Programming  | [Read](Read19.md) |
 |                    |       *Android Section*          |                      |
 |   Read26           |   Android Fundamentals         | [Read](Read26.md)    |
-|                    |                                |                      |
+|   Read27           | Intents, Activities, and SharedPreferences |   [Read](Read27.md)|
 |                    |                                |                      |
 |                    |                                |                      |
 |                    |                                |                      |
