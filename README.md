@@ -35,7 +35,7 @@
 |   Read27           | Intents, Activities, and SharedPreferences |   [Read](Read27.md)|
 |   Read28           |    RecyclerView                |   [Read](Read28.md)      |
 |   Read29            |   Room inAndroid              |   [Read](Read29.md)   |
-|                    |                                |                      |
+|   Read30           |    Hash Tables                 |    [Read](Read30.md)       |
 |                    |                                |                      |
 
 
