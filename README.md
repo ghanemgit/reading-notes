@@ -37,6 +37,7 @@
 |   Read29            |   Room inAndroid              |   [Read](Read29.md)   |
 |   Read30           |    Hash Tables                 |    [Read](Read30.md)       |
 |   Read31           |    Espresso                 |    [Read](Read31.md)       |
+|   Read32           |    Serverless and Amplify     |    [Read](Read32.md)       |
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
