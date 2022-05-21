@@ -1,4 +1,4 @@
-# Monetization
+# Publish your app
 
 #### When the application development process is completed, it’s high time to introduce your special product to the world. First publishing may be thrilling and tricky. Don’t worry. Today we will guide you through the release process on the Play Store that is undoubtedly the leader in the number of published apps and users. First, we’d like to give you precious advice: do not postpone some crucial tasks until the release or pre-release date. Completing them in advance will save your time and nerves. And now, let’s get started with publishing your very first app. So, let’s get started!
 
