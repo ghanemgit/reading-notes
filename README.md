@@ -39,6 +39,8 @@
 |   Read31           |    Espresso                 |    [Read](Read31.md)       |
 |   Read32           |    Serverless and Amplify     |    [Read](Read32.md)       |
 |   Read33           |    GraphQL @connection     |    [Read](Read33.md)       |
+|   Read34           |   Publish your app      |    [Read](Read34.md)       |
+
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
