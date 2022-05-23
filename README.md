@@ -40,6 +40,7 @@
 |   Read32           |    Serverless and Amplify     |    [Read](Read32.md)       |
 |   Read33           |    GraphQL @connection     |    [Read](Read33.md)       |
 |   Read34           |   Publish your app      |    [Read](Read34.md)       |
+|   Read35           |   Graphs      |    [Read](Read35.md)       |
 
 
 
