@@ -41,6 +41,7 @@
 |   Read33           |    GraphQL @connection     |    [Read](Read33.md)       |
 |   Read34           |   Publish your app      |    [Read](Read34.md)       |
 |   Read35           |   Graphs      |    [Read](Read35.md)       |
+|   Read36           |   Cognito      |    [Read](Read36.md)       |
 
 
 
