@@ -43,7 +43,7 @@
 |   Read35           |   Graphs      |    [Read](Read35.md)       |
 |   Read36           |   Cognito      |    [Read](Read36.md)       |
 |   Read37           |   aws S3      |    [Read](Read37.md)       |
-|   Read38           |   Notification      |    [Read](Read38.md)       |
+|   Read38           |   Notifications      |    [Read](Read38.md)       |
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
