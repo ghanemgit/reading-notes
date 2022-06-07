@@ -45,6 +45,7 @@
 |   Read37           |   aws S3      |   [Read](All%20Reading%20md%20File/Read37.md)    |
 |   Read38           |   Notifications      |   [Read](All%20Reading%20md%20File/Read38.md)    |
 |   Read39           |   Location      |   [Read](All%20Reading%20md%20File/Read39.md)    |
+|   Read41           |   Amazon Pinpoint & polly      |   [Read](All%20Reading%20md%20File/Read41.md)    |
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
