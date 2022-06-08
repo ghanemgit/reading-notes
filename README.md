@@ -46,7 +46,7 @@
 |   Read38           |   Notifications      |   [Read](All%20Reading%20md%20File/Read38.md)    |
 |   Read39           |   Location      |   [Read](All%20Reading%20md%20File/Read39.md)    |
 |   Read41           |   Amazon Pinpoint & polly      |   [Read](All%20Reading%20md%20File/Read41.md)    |
-|   Read42           |   Ethics      |   [Read](All%20Reading%20md%20File/Read42.md)    |
+|   Read42           |   AdMob       |   [Read](All%20Reading%20md%20File/Read42.md)    |
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
