@@ -48,6 +48,7 @@
 |   Read41           |   Amazon Pinpoint & polly      |   [Read](All%20Reading%20md%20File/Read41.md)    |
 |   Read42           |   AdMob       |   [Read](All%20Reading%20md%20File/Read42.md)    |
 |   Read43           |   OSS Contributions       |   [Read](All%20Reading%20md%20File/Read43.md)    |
+|   Read44           |   Ethics in tech       |   [Read](All%20Reading%20md%20File/Read44.md)    |
 
 
 [The Growth Mindset](https://github.com/ghanemgit/reading-notes/tree/The-Growth-Mindset)
